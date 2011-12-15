@@ -27,14 +27,15 @@ Prerequisites: git, make
 ## Plugins:
 
 * ack
-* coffee-script
 * commentary
-* endwise
+* ruby
 * fugitive
+* surround
+* endwise
 * gist
 * haml
+* scss
 * javascript
-* ruby
-* surround
+* coffee-script
 
 This configuration based on [mislav/vimfiles](https://github.com/mislav/vimfiles)
