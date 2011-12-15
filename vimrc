@@ -74,7 +74,7 @@ nnoremap <c-h> <c-w>h
 nnoremap <c-l> <c-w>l
 
 nnoremap <silent> <CR> :nohlsearch<cr>
-noremap  <silent> <leader>W :%s/\s\+$//<cr>:let @/=''<CR> " strip all trailing whitespace
+nnoremap <silent> <leader>W :%s/\s\+$//<cr>:let @/=''<CR> " strip all trailing whitespace
 nnoremap <leader><leader> <c-^>
 
 if has("statusline") && !&cp

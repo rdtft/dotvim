@@ -1,7 +1,5 @@
 color vwilight
 set guifont=Bitstream\ Vera\ Sans\ Mono:h12
-"set guifont=Menlo\ Regular:h14
-"set gfn=Monaco:h12
 set linespace=2
 
 set visualbell      " don't beep
