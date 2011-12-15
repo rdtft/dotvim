@@ -1,18 +1,11 @@
 ## Installation:
 
-Prerequisites: git, make
+Prerequisites: **git**, **make**
 
-1. Clone this repo into ".vim":  
-
-```shell
-   $ git clone https://github.com/ryuk/dotvim ~/.vim
-```
-2. Go into ".vim" and run "make":  
-
-```shell
-   $ cd ~/.vim
-   $ make
-```
+1. Clone this repo into ".vim"
+``` git clone https://github.com/ryuk/dotvim ~/.vim```
+2. Go into ".vim" and run "make"
+```cd ~/.vim; make```
 
 ## Features:
 
@@ -27,14 +20,15 @@ Prerequisites: git, make
 ## Plugins:
 
 * ack
-* coffee-script
 * commentary
-* endwise
+* ruby
 * fugitive
+* surround
+* endwise
 * gist
 * haml
+* scss
 * javascript
-* ruby
-* surround
+* coffee-script
 
 This configuration based on [mislav/vimfiles](https://github.com/mislav/vimfiles)
