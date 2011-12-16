@@ -78,9 +78,7 @@ nnoremap <silent> <leader>W :%s/\s\+$//<cr>:let @/=''<CR> " strip all trailing w
 nnoremap <leader><leader> <c-^>
 
 if has("statusline") && !&cp
-  set laststatus=2  " always show the status bar
-  set statusline=%F%m%r%h%w
-  set statusline+=%{fugitive#statusline()}
-  set statusline+=\ [%{strlen(&fenc)?&fenc:&enc}]
-  set statusline+=\ [line\ %l\/%L]
+  " always show the status bar
+  set laststatus=2
+  set statusline=%F\ %m\ %{fugitive#statusline()}\ %y%=%l,%c\ %P
 endif
