@@ -40,3 +40,9 @@
 [submodule "bundle/repeat"]
 	path = bundle/repeat
 	url = https://github.com/tpope/vim-repeat.git
+[submodule "bundle/mustache"]
+	path = bundle/mustache
+	url = git://github.com/juvenn/mustache.vim.git
+[submodule "bundle/textile"]
+	path = bundle/textile
+	url = https://github.com/timcharper/textile.vim.git

@@ -22,18 +22,19 @@ Prerequisites: **git**, **make**
 * `<C-j/k/h/l>` switches between windows (no need to prepend `<C-w>`)
 
 ## Plugins:
-
 * ack
+* coffee-script
 * commentary
-* ruby
-* fugitive
-* surround
-* repeat
 * endwise
+* fugitive
 * gist
 * haml
-* scss
 * javascript
-* coffee-script
+* mustache
+* repeat
+* ruby
+* scss
+* surround
+* textile
 
 This configuration based on [mislav/vimfiles](https://github.com/mislav/vimfiles)
