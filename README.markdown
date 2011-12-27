@@ -34,7 +34,10 @@ Prerequisites: **git**, **make**
 * repeat
 * ruby
 * scss
+* snipmate
 * surround
 * textile
+
+
 
 This configuration based on [mislav/vimfiles](https://github.com/mislav/vimfiles)
