@@ -46,3 +46,15 @@
 [submodule "bundle/textile"]
 	path = bundle/textile
 	url = https://github.com/timcharper/textile.vim.git
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = git://github.com/garbas/vim-snipmate.git
+[submodule "bundle/tlib"]
+	path = bundle/tlib
+	url = https://github.com/tomtom/tlib_vim.git
+[submodule "bundle/mw-utils-addon"]
+	path = bundle/mw-utils-addon
+	url = https://github.com/MarcWeber/vim-addon-mw-utils
+[submodule "bundle/snippets"]
+	path = bundle/snippets
+	url = https://github.com/honza/snipmate-snippets.git
