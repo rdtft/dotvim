@@ -34,6 +34,7 @@ Prerequisites: **git**, **make**
 * rails
 * repeat
 * ruby
+* sass
 * scss
 * snipmate
 * surround
