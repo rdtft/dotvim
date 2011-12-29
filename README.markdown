@@ -31,6 +31,7 @@ Prerequisites: **git**, **make**
 * haml
 * javascript
 * mustache
+* rails
 * repeat
 * ruby
 * scss
