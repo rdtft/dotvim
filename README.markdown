@@ -36,6 +36,7 @@ Prerequisites: **git**, **make**
 * ruby
 * sass
 * scss
+* less
 * snipmate
 * surround
 * textile
