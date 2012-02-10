@@ -1,8 +1,10 @@
-color vwilight
-set guifont=Bitstream\ Vera\ Sans\ Mono:h12
-set linespace=2
+set background=light
+set guifont=Bitstream\ Vera\ Sans\ Mono:h13
+color solarized
 
 set visualbell      " don't beep
+
+set linespace=2
 
 set guioptions-=T   " start without the toolbar
 set guioptions-=rL  " disable scrollbar
