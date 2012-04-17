@@ -23,6 +23,7 @@ Prerequisites: **git**, **make**
 
 ## Plugins:
 * ack
+* ctrlp
 * coffee-script
 * commentary
 * endwise
