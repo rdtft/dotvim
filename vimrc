@@ -80,5 +80,5 @@ nnoremap <leader><leader> <c-^>
 if has("statusline") && !&cp
   " always show the status bar
   set laststatus=2
-  set statusline=%F\ %m\ %{fugitive#statusline()}\ %y%=%l,%c\ %P
+  set statusline=%F\ %m\ %y%=%l,%c\ %P
 endif
