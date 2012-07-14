@@ -1,5 +1,5 @@
 set background=light
-set guifont=Bitstream\ Vera\ Sans\ Mono:h13
+set guifont=Menlo\ Regular:h12
 color solarized
 
 set visualbell      " don't beep
