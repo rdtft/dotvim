@@ -25,12 +25,9 @@ Prerequisites: **git**, **make**
 * coffee-script
 * commentary
 * endwise
-* gist
 * haml
 * javascript
-* rails
 * repeat
-* snipmate
 * surround
 
 
