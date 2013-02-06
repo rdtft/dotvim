@@ -5,9 +5,9 @@ set encoding=utf-8
 call pathogen#infect()
 filetype plugin indent on
 
-set background=light
+set background=dark
 set t_Co=256
-color solarized
+color vanilla
 set number
 set ruler       " show the cursor position all the time
 set cursorline
@@ -79,6 +79,6 @@ nnoremap <leader><leader> <c-^>
 
 if has("statusline") && !&cp
   " always show the status bar
-  set laststatus=2
+  set laststatus=1
   set statusline=%F\ %m\ %y%=%l,%c\ %P
 endif
