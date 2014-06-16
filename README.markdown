@@ -21,14 +21,4 @@ Prerequisites: **git**, **make**
 * `;` in normal mode works as `:`
 * `<C-j/k/h/l>` switches between windows (no need to prepend `<C-w>`)
 
-## Plugins:
-* coffee-script
-* commentary
-* endwise
-* haml
-* javascript
-* repeat
-* surround
-
-
 This configuration based on [mislav/vimfiles](https://github.com/mislav/vimfiles)
